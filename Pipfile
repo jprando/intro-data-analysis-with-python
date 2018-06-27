@@ -16,6 +16,8 @@ mysqlclient = "*"
 jupyter = "*"
 jupyterlab = "*"
 twitter = "*"
+docker-compose = "*"
+pymysql = "*"
 
 [dev-packages]
 
