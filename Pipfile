@@ -18,6 +18,7 @@ jupyterlab = "*"
 twitter = "*"
 docker-compose = "*"
 pymysql = "*"
+bokeh = "*"
 
 [dev-packages]
 
