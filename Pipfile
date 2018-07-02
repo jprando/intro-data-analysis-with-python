@@ -19,6 +19,7 @@ twitter = "*"
 docker-compose = "*"
 pymysql = "*"
 bokeh = "*"
+pandasql = "*"
 
 [dev-packages]
 
